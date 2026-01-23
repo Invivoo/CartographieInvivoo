@@ -51,5 +51,5 @@ Description de tous les repos du Github Invivoo
 
 ## ??? => à jeter
 
-invivoo-ltj-refactoring-exemple => vide
-CSP-Monothread => vide
+* invivoo-ltj-refactoring-exemple => vide
+* CSP-Monothread => vide
