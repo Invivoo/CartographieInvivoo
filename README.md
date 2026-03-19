@@ -4,6 +4,7 @@ Description de tous les repos du Github Invivoo
 ## Projet
 
 * ViV-Wallet => Front et Back de l'appli VIVWallet (Olivier)
+* TestSpringAI => mini projet Front + Back pour tester Spring AI
 
 ## Formation - Katas
 
